@@ -1,0 +1,24 @@
+{
+  "name": "mp3emanager",
+  "version": "1.0.0",
+  "author": "Dale Preston",
+  "description": "Preston Media's MP3Manager, a C# .Net app, functionality rewritten for electronjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalepres/mp3emanager.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalepres/mp3emanager/issues"
+  },
+  "homepage": "https://github.com/dalepres/mp3emanager#readme",
+  "devDependencies": {
+    "electron": "^12.0.7"
+  }
+}
